@@ -26,5 +26,5 @@ public class Client {
         fis.close();
 //        客户端关闭的同时会将客户端的字节流一同关闭
         socket.close();
-    }
+    } 
 }
