@@ -26,5 +26,5 @@ public class Actor implements Serializable {
 
     public String getPartner() {
         return partner;
-    }
+    } 
 }
